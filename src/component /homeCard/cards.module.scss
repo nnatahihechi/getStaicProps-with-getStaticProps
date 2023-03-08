@@ -1,0 +1,35 @@
+.main{
+    // width: 100%;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ justify-items: center;
+ align-items: center;
+//  height: 300px;
+ width: auto;
+ 
+
+ .text{
+    color: navy ;
+    text-align: center;
+    font-size: 30px;
+    
+ }
+
+ .cards{
+        text-decoration: none;
+        height: 100px;
+        width: 200px;
+        background-color: navy;
+        text-align:center;
+        color:aliceblue;
+        padding-top:50px;
+        font-size: 25px;
+    
+        
+    }
+    .list{
+          color: navy ;
+          
+    }
+}
